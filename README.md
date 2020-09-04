@@ -6,7 +6,7 @@
 
 ![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaljain0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaljain0&layout=compact&hide=css,hack)
 <!--
 **pranjaljain0/pranjaljain0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
