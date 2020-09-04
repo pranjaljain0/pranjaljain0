@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
