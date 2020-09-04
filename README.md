@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on something amazing
+- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- ⚡ Fun fact: I am always working
+
 ![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaljain0&layout=compact)
