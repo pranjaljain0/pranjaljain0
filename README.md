@@ -31,3 +31,5 @@
 <a href="https://github.com/Pranjaljain0/Pranjaljain0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
