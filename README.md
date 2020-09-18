@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Asset%201.png "Header")](https://pranjaljain.tech/)
+[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Header.png "Header")](https://pranjaljain.tech/)
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on something amazing
 - 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
 - ⚡ Fun fact: I am always working
+
+[Resume](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Pranjal_Jain_CV.pdf)
 
 ## 🔧 Technologies & Tools
 
