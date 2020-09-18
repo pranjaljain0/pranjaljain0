@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Header.png "Header")](https://pranjaljain.tech/)
+[![Header](https://raw.githubusercontent.com/pranjaljain0/pranjaljain0/master/Header.png "Header")](https://pranjaljain.tech/)
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
