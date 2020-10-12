@@ -12,8 +12,6 @@
 
 ## 🔧 Technologies & Tools
 
----
-
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -47,8 +45,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## Languages
-
----
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
 ![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
