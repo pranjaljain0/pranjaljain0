@@ -8,7 +8,7 @@
 - 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
 - ⚡ Fun fact: I am always working
 
-[Resume](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Pranjal_Jain_CV.pdf)
+[Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
 
 ## 🔧 Technologies & Tools
 
