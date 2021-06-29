@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/pranjaljain0/pranjaljain0/master/Header.png "Header")](https://pranjaljain.tech/)
+[![Header](https://raw.githubusercontent.com/pranjaljain0/pranjaljain0/master/Header.png 'Header')](https://pranjaljain.tech/)
 
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -9,6 +9,11 @@
 - ⚡ Fun fact: I am always working
 
 [Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
 
