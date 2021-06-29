@@ -13,6 +13,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run creat-react-app with HTTPS](https://dev.to/pranjaljain0/run-creat-react-app-with-https-4ep6)
+- [Generate an SSL Certificate With the Root Certificate for localhost](https://dev.to/pranjaljain0/generate-an-ssl-certificate-with-the-root-certificate-for-localhost-18je)
+- [Priority loading in Reactjs](https://dev.to/pranjaljain0/priority-loading-in-reactjs-4f1p)
+- [My Portfolio 🤵](https://dev.to/pranjaljain0/my-portfolio-2klm)
+- [The FizzBuzz problem](https://dev.to/pranjaljain0/the-fizzbuzz-problem-5ih)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
