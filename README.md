@@ -5,7 +5,7 @@
 ## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech) [![Dev Badge](https://img.shields.io/badge/-DEV-000000?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/pranjaljain0)](https://dev.to/pranjaljain0)
 
 - 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- 📫 How to reach me: [pranjaljain0697@gmail.com](mailto:pranjaljain0697@gmail.com)
 - ⚡ Fun fact: I am always working
 
 [Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
